@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+    <Filter Include="Breed">
+      <UniqueIdentifier>{b8247401-a27e-468b-8bac-ddf11436ae61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Breed\Source Files">
+      <UniqueIdentifier>{82b36bf2-dcd3-4fdf-a4d2-8520b98a2786}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Breed\Header Files">
+      <UniqueIdentifier>{e8e05370-4c98-4ae1-af9f-04686a087fe6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Evo">
+      <UniqueIdentifier>{a5fff1bb-7abc-4122-b387-5bb4200c621b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Evo\Source Files">
+      <UniqueIdentifier>{8afe4996-b41b-457e-b6c7-320e9785ae76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Evo\Header Files">
+      <UniqueIdentifier>{729c505e-e328-4fbf-b06f-90150fc11d59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{c503e0c7-b326-41bf-8f3f-260e3907befb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item\Source Files">
+      <UniqueIdentifier>{c5bf14c2-f881-433e-a399-57bfcc84bee2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item\Header Files">
+      <UniqueIdentifier>{23994e08-93a3-4af1-a53d-e269b122a94d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Skill">
+      <UniqueIdentifier>{016a47ce-7591-4617-9c75-c0a61de4daae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Skill\Source Files">
+      <UniqueIdentifier>{6b7995c9-aab5-4d0e-b023-66b60c35acb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Skill\Header Files">
+      <UniqueIdentifier>{cfa956cc-a394-43ed-98c9-a1dbe8dfc40b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Text Files">
+      <UniqueIdentifier>{b891dad5-c663-4d5b-93dd-0cb543498c65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enc">
+      <UniqueIdentifier>{3710bfcf-0a14-4532-bd4a-947abc0881ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enc\Source Files">
+      <UniqueIdentifier>{fb530728-b279-4ec8-980c-f031a17b7e6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enc\Header Files">
+      <UniqueIdentifier>{c2a7ce5c-ac25-4fe2-b471-d5e7c3a47687}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Berry">
+      <UniqueIdentifier>{c92c3610-e5d3-4048-8a30-c8f3a9fb9828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Berry\Source Files">
+      <UniqueIdentifier>{a55e5432-a363-42c5-aa5a-6ad0baf6a6c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Berry\Header Files">
+      <UniqueIdentifier>{1e000e81-9703-4f8a-b41c-f5ad8e0c92eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BaseDialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ConfigDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PokemonRomViewer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StringReader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WaitDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedAblPage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedDeriveLearnPage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedDlg.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedItemPage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedLvlupLearnPage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedMachineLearnPage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedSpecPage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedTabPage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreedTypePage.cpp">
+      <Filter>Breed\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EvoDlg.cpp">
+      <Filter>Evo\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemDlg.cpp">
+      <Filter>Item\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillDlg.cpp">
+      <Filter>Skill\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EncDlg.cpp">
+      <Filter>Enc\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EncFishPage.cpp">
+      <Filter>Enc\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EncLandPage.cpp">
+      <Filter>Enc\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EncStonePage.cpp">
+      <Filter>Enc\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EncTabPage.cpp">
+      <Filter>Enc\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EncWaterPage.cpp">
+      <Filter>Enc\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BerryDlg.cpp">
+      <Filter>Berry\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PokemonRomViewer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StringReader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WaitDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedAblPage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedDeriveLearnPage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedDlg.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedItemPage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedLvlupLearnPage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedMachineLearnPage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedSpecPage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedTabPage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BreedTypePage.h">
+      <Filter>Breed\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EvoDlg.h">
+      <Filter>Evo\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemDlg.h">
+      <Filter>Item\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillDlg.h">
+      <Filter>Skill\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EncDlg.h">
+      <Filter>Enc\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EncFishPage.h">
+      <Filter>Enc\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EncLandPage.h">
+      <Filter>Enc\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EncStonePage.h">
+      <Filter>Enc\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EncTabPage.h">
+      <Filter>Enc\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EncWaterPage.h">
+      <Filter>Enc\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BerryDlg.h">
+      <Filter>Berry\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\DlgIcon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\PokemonRomViewer.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PokemonRomViewer.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\PokemonRomViewer.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="BreedNameList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="EncNameList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="ItemDescList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="ItemNameList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="SkillEffList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="SkillNameList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="SkillSpecList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="SpecDescList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="SpecNameList.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+    <Text Include="帮助文档.txt">
+      <Filter>Text Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
